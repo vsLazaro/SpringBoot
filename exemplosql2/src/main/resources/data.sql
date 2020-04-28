@@ -1,0 +1,1 @@
+insert into cliente(id_cliente, nome, renda) values(1, 'Thiago Cury', 2000.89);
