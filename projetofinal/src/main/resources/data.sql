@@ -1,0 +1,1 @@
+insert into champion(id_champion, nome, cidade_natal, funcao, dificuldade) values(1, 'Aatrox', 'Runeterra', 'Lutador', 'Moderado');
