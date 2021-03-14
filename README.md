@@ -1,2 +1,2 @@
 # SpringBoot
-Aprendendoa utilizar a ferramenta
+Aprendendo a utilizar a ferramenta
